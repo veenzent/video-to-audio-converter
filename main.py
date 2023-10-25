@@ -1,5 +1,5 @@
 from moviepy.editor import *
-from datetime import datetime
+
 
 def mp4_to_mp3_converter(mp4: str, mp3: str):
     """
